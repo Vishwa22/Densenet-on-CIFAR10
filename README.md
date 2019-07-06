@@ -6,7 +6,7 @@ It includes concepts of:
 
 - Image augmentation
 - Transfer learning
-- changing the learning rate
+- Learning rate scheduling
 
 Deep learning model used here is `DenseNet`
 
